@@ -1,2 +1,4 @@
-# UMN-Data_Analytics-JavaScript_Challenge
-Homework #11 for the University of Minnesota's Data Analytics Bootcamp: JavaScript and DOM Manipulation
+# JavaScript and DOM Manipulation / ALIENS-R-REAL
+This project implements a website using HTML, CSS, and D3.js. Using D3.js, a UFO sightings dataset can be filtered.
+
+## How To Run
