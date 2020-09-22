@@ -5,7 +5,10 @@ Most HTML, CSS, and data was provided by the class; but I did make some adjustme
 This was mostly to practice JavaScript.
 
 ## How To Run
-To access the site click here: [UFO Sightings](https://12wollmana.github.io/UMN-Data_Analytics-JavaScript_Challenge/)
+To access the site click here: [UFO Sightings](https://12wollmana.github.io/UMN-Data_Analytics-JavaScript_Challenge/).
+
 Use the filter controls to adjust what information is in the table.
+
 The table should change as selections are made.
+
 Click the "Reset Table" button to clear all selections.
